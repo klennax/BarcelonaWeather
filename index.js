@@ -1,4 +1,4 @@
-unction formatDate(date) {
+function formatDate(date) {
   let hours = date.getHours();
   if (hours < 10) {
     hours = `0${hours}`;
