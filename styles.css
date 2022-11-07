@@ -1,0 +1,29 @@
+h1 {
+  color: blue;
+}
+h2 {
+  color: blue;
+}
+h3 {
+  color: blue;
+  display: inline;
+  font-weight: 700;
+}
+
+li {
+  color: blue;
+  font-weight: 700;
+  list-style-type: none;
+}
+.container {
+  color: black;
+}
+.row {
+  text-align: center;
+}
+input {
+  display: inline;
+  text-align: center;
+  position: relative;
+  left: 120px;
+}
